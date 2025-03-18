@@ -51,7 +51,7 @@ The dataset includes the following columns:
 The Flask-based web app allows users to:
 - Input data on a student’s demographics and academic background.
 - Obtain predictions on math scores based on input features.
-- Display results interactively for easy interpretation.
+- Display results interactively for easy interpretation. 
 
 ## Installation
 1. **Clone the repository**:
